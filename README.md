@@ -1,4 +1,4 @@
- 📊 Employee Sentiment Analysis Project
+Employee Sentiment Analysis Project
 
 This project analyzes employee email data to perform sentiment labeling, exploratory data analysis (EDA), monthly sentiment scoring, employee ranking, flight risk identification, and sentiment trend modeling using linear regression.
 
@@ -112,4 +112,5 @@ For any questions or clarifications, please contact:
 
 Souradeep Datta
  [souradeepdatta222@gmail.com](mailto:souradeepdatta222@gmail.com)
+
 
